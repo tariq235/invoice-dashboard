@@ -1,0 +1,34 @@
+[
+  {
+    "id": 101,
+    "customer": "Acme Corp",
+    "amount": "$1,200.00",
+    "status": "Pending",
+    "dueDate": "2025-04-20",
+    "userId": 2
+  },
+  {
+    "id": 102,
+    "customer": "Globex Inc",
+    "amount": "$2,500.00",
+    "status": "Paid",
+    "dueDate": "2025-03-18",
+    "userId": 3
+  },
+  {
+    "id": 103,
+    "customer": "Soylent Corp",
+    "amount": "$980.00",
+    "status": "Overdue",
+    "dueDate": "2025-04-10",
+    "userId": 2
+  },
+  {
+    "id": 104,
+    "customer": "Initech",
+    "amount": "$3,400.00",
+    "status": "Pending",
+    "dueDate": "2025-04-25",
+    "userId": 3
+  }
+]
